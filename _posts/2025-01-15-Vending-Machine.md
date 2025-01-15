@@ -6,11 +6,6 @@ tags: [Vending Machine, Midterm, TEJ20R]
 pin: false
 ---
 
-# Real World Vending Machine
-by: Sanchit Khope
-
-
-
 ![Vendingmachine](https://github.com/user-attachments/assets/cf389e08-7e82-4ec8-877b-a53acc4cf320)
 Vending Machine Final Product
 
